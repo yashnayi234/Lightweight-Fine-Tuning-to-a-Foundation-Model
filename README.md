@@ -33,6 +33,9 @@ This repository demonstrates a lightweight approach for fine-tuning pre-trained 
 
    ```bash
    git clone https://github.com/yashnayi234/Lightweight-Fine-Tuning-to-a-Foundation-Model.git
-   cd Lightweight-Fine-Tuning-to-a-Foundation-Model
+
+
+   ```bash
+      cd Lightweight-Fine-Tuning-to-a-Foundation-Model
 
    
